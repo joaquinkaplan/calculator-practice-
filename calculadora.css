@@ -42,4 +42,5 @@ button:hover {
     border-radius: 25px;
     overflow-y: scroll;
     font-family: 'Roboto Condensed', sans-serif;
+    overflow-y: hidden;
 }
